@@ -1,0 +1,26 @@
+body {
+    color: grey;
+    font-size: 16px;
+    font-family: Poppins;
+  }
+  h1 {
+    color: white;
+    font-size: 50px;
+  }
+  h2 {
+    color: white;
+    font-size: 38px;
+  }
+
+  #banner {
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1528901166007-3784c7dd3653?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2970&q=80");
+    background-size: cover;
+    background-position: center;
+    padding: 190px;
+  }
+
+  #sub-banner {
+    text-align: center;
+    margin: 50px 0;
+  }
