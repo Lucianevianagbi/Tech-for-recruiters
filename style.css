@@ -24,3 +24,27 @@ body {
     text-align: center;
     margin: 50px 0;
   }
+
+  #modules {
+    margin-bottom: 50px;
+  }
+  .card {
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+    font-weight: lighter;
+    border: none;
+  }
+  .card img {
+    margin-bottom: 20px;
+  }
+
+  #video-container {
+    text-align: center;
+    margin-bottom: 80px;
+  }
+
+  #footer {
+    padding: 30px 80px;
+    background: linear-gradient(to right, #ff6700, #fd1015);
+  }
